@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "username": "hey",
+        "avatar": "https://www.kindpng.com/picc/m/22-223863_no-avatar-png-circle-transparent-png.png",
+        "socketId": null,
+        "bio": "",
+        "age": "",
+        "interests": "",
+        "socialLinks": "",
+        "joinedAt": 1754110276550,
+        "lastSeen": 1754110577998
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.79616925657768,
+          40.8811366755364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "username": "cat",
+        "avatar": "https://www.kindpng.com/picc/m/22-223863_no-avatar-png-circle-transparent-png.png",
+        "socketId": null,
+        "bio": "",
+        "age": "",
+        "interests": "",
+        "socialLinks": "",
+        "joinedAt": 1754109462435,
+        "lastSeen": 1754109505101
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.49130747000535,
+          41.62822932146097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "username": "me",
+        "avatar": "https://www.kindpng.com/picc/m/22-223863_no-avatar-png-circle-transparent-png.png",
+        "socketId": null,
+        "bio": "",
+        "age": "",
+        "interests": "",
+        "socialLinks": "",
+        "joinedAt": 1754110310166,
+        "lastSeen": 1754110577983
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.46469546965498,
+          40.85646183286516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "username": "yu",
+        "avatar": "https://www.kindpng.com/picc/m/22-223863_no-avatar-png-circle-transparent-png.png",
+        "socketId": null,
+        "bio": "",
+        "age": "",
+        "interests": "",
+        "socialLinks": "",
+        "joinedAt": 1754109457347,
+        "lastSeen": 1754109503350
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.7478426564334,
+          41.35946261356755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "username": "sod",
+        "avatar": "https://www.kindpng.com/picc/m/22-223863_no-avatar-png-circle-transparent-png.png",
+        "socketId": null,
+        "bio": "",
+        "age": "",
+        "interests": "",
+        "socialLinks": "",
+        "joinedAt": 1754109468717,
+        "lastSeen": 1754109506384
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.74980803111504,
+          40.879383371411414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "username": "you",
+        "avatar": "https://www.kindpng.com/picc/m/22-223863_no-avatar-png-circle-transparent-png.png",
+        "socketId": null,
+        "bio": "",
+        "age": "",
+        "interests": "",
+        "socialLinks": "",
+        "joinedAt": 1754109558348,
+        "lastSeen": 1754110068794
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.67135953034834,
+          41.303187145723165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "username": "man",
+        "avatar": "https://www.kindpng.com/picc/m/22-223863_no-avatar-png-circle-transparent-png.png",
+        "socketId": null,
+        "bio": "",
+        "age": "",
+        "interests": "",
+        "socialLinks": "",
+        "joinedAt": 1754110264964,
+        "lastSeen": 1754110302895
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.4574373167626,
+          40.911738945553545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "username": "sjkdahgfkee",
+        "avatar": "https://www.kindpng.com/picc/m/22-223863_no-avatar-png-circle-transparent-png.png",
+        "socketId": null,
+        "bio": "",
+        "age": "",
+        "interests": "",
+        "socialLinks": "",
+        "joinedAt": 1754110331884,
+        "lastSeen": 1754110577986
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.42570888667414,
+          41.03600444830475
+        ]
+      }
+    }
+  ]
+}
